@@ -3,7 +3,7 @@
 
 /**
  * binary_tree_insert_right - insert node as left right of other node
- * @parent: pointer to parent node
+ * @parent: pointer to paret node
  * @value: new node value
  *
  * Return: pointer new node otherwise NULL in failure
