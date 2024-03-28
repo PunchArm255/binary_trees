@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_nodes - count nodes with at least 1 child in tree
- * @tree: pointer to root node of tree to count the number nodes
+ * @tree: root node pointer
  *
  * Return: node number
  */
