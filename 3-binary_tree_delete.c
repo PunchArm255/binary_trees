@@ -3,7 +3,7 @@
 
 /**
  * binary_tree_delete - delete entire binary tree
- * @tree: pointer to root of binary tree
+ * @tree: pointer to binary tree roofio
  *
  * Return: void
  */
